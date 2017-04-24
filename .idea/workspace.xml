@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96150fd6-c6f7-4edc-b178-103f6343e1a0" name="Default" comment="" />
+    <list default="true" id="96150fd6-c6f7-4edc-b178-103f6343e1a0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/biliChat Java聊天室.mdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -666,7 +669,7 @@
       <workItem from="1493002730208" duration="442000" />
       <workItem from="1493003202445" duration="100000" />
       <workItem from="1493003331171" duration="113000" />
-      <workItem from="1493003475384" duration="3970000" />
+      <workItem from="1493003475384" duration="4535000" />
     </task>
     <task id="LOCAL-00001" summary="gui">
       <created>1493005865934</created>
@@ -679,7 +682,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7380000" />
+    <option name="totallyTimeSpent" value="7945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -734,7 +737,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gui" />
-    <option name="LAST_COMMIT_MESSAGE" value="gui" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
