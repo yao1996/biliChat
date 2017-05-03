@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96150fd6-c6f7-4edc-b178-103f6343e1a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/Action/Close.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/Action/LoginAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/Action/RegisterInRegisterGui.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/Action/SendChatMsg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/GUI/ChatroomGui/ChatRoom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/IO/RecieveFromServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/IO/SendToServer.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/biliChat/top/LoginGui/LoginGui.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/biliChat/top/LoginGui/RegisterGui.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/biliChat/top/LoginGui/RegisterMoniterInLG.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/biliChat/top/LoginGui/icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/biliChat/top/LoginGui/icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/biliChat/top/LoginGui/runGui.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/top/GUI/ChatroomGui/bili.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/top/GUI/LoginGui/LoginGui.java" afterPath="$PROJECT_DIR$/src/top/GUI/LoginGui/LoginGui.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/top/GUI/LoginGui/RegisterGui.java" afterPath="$PROJECT_DIR$/src/top/GUI/LoginGui/RegisterGui.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/top/GUI/LoginGui/RegisterMoniterInLG.java" afterPath="$PROJECT_DIR$/src/top/Action/RegisterInLoginGui.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/top/GUI/LoginGui/runGui.java" afterPath="$PROJECT_DIR$/src/top/Run/Start.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.mdown" afterPath="$PROJECT_DIR$/readme.mdown" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecieveFromServer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RecieveFromServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/top/IO/RecieveFromServer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-678">
@@ -88,6 +70,16 @@
                 <element signature="method#getMessageInfo#0;class#RecieveFromServer#0" expanded="false" />
                 <element signature="method#getUsersInfo#0;class#RecieveFromServer#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.mdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.mdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/top/GUI/ChatroomGui/ChatRoom.java" />
         <option value="$PROJECT_DIR$/src/top/IO/RecieveFromServer.java" />
         <option value="$PROJECT_DIR$/src/top/Run/Start.java" />
+        <option value="$PROJECT_DIR$/readme.mdown" />
       </list>
     </option>
   </component>
@@ -913,7 +906,7 @@
       <workItem from="1493548031692" duration="9721000" />
       <workItem from="1493641669684" duration="669000" />
       <workItem from="1493714613180" duration="15892000" />
-      <workItem from="1493782584124" duration="17685000" />
+      <workItem from="1493782584124" duration="18987000" />
     </task>
     <task id="LOCAL-00001" summary="gui">
       <created>1493005865934</created>
@@ -936,11 +929,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493008417909</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="end">
+      <created>1493806811965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1493806811965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86358000" />
+    <option name="totallyTimeSpent" value="87660000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -953,6 +953,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -973,7 +974,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27962086" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27962086" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24377745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1028,7 +1029,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gui" />
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="end" />
+    <option name="LAST_COMMIT_MESSAGE" value="end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1041,7 +1043,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/top/LoginGui/RegisterMoniterInLG.java" />
     <entry file="file://$PROJECT_DIR$/src/top/LoginGui/runGui.java" />
     <entry file="file://$PROJECT_DIR$/src/top/LoginGui/LoginGui.java" />
     <entry file="file://$PROJECT_DIR$/src/top/LoginGui/RegisterGui.java" />
@@ -1212,6 +1213,14 @@
             <element signature="method#getMessageInfo#0;class#RecieveFromServer#0" expanded="false" />
             <element signature="method#getUsersInfo#0;class#RecieveFromServer#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.mdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
